@@ -1,11 +1,3 @@
-#[Signal for Help](https://canadianwomen.org/signal-for-help/)
-
-This site contains my translation into Spanish of the advice given by the [Canadian Woman's Foundation](https://canadianwomen.org/signal-for-help/) on what to do if you see the **[Signal For Help](https://canadianwomen.org/signal-for-help/)**, and some alternative Spanish-language links that may be useful when looking for help fast, ordered by country.
-
-My translation is lightly edited from the original and is unauthorised by the Canadian Woman's Foundation at this time. I hope that they will accept this in the spirit that I mean it -- as an amplification of their message. 
-
----
-
 ##Si usted, o alguien que conoce, está en peligro inmediato, llame a los servicios locales de emergencia (policía, bomberos, ambulancia).
 
 ###SI VE LA SEÑAL DE SOCORRO
@@ -38,7 +30,7 @@ Si ve que alguien usa la Señal de Socorro, comuníquese con la persona de maner
 [Denuncia la trata de personas](https://www.argentina.gob.ar/denuncialatrata)Si algo te hace dudar, no dudes. #DenunciáLaTrata
 
 ###CANADA:
-[Signal For Help](https://canadianwomen.org/signal-for-help/) -- la fuente del texto de este página (página en inglés o francés)
+[Signal For Help](https://canadianwomen.org/signal-for-help/) -- sede de la campaña (página en inglés o francés)
 
 [Crisis Text Line](https://www.crisistextline.ca/) (página en inglés o francés)
 
@@ -85,3 +77,4 @@ El [Inmujeres](https://www.gob.mx/inmujeres) puede apoyar a las mujeres cuando d
 [Directorio de Centros de Justicia para las Mujeres](https://www.gob.mx/cms/uploads/attachment/file/544677/Info_CJM_horarios_durante_Contingencia.pdf) (PDF)
 
 [Realiza tu denuncia en línea o de forma presencial](https://www.denunciadigital.cdmx.gob.mx/)
+
