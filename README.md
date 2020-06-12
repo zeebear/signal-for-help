@@ -1,4 +1,4 @@
-#[Signal for Help](https://canadianwomen.org/signal-for-help/)
+# [Signal for Help](https://canadianwomen.org/signal-for-help/)
 
 This site contains my translation into Spanish of the advice given by the [Canadian Woman's Foundation](https://canadianwomen.org/signal-for-help/) on what to do if you see the **[Signal For Help](https://canadianwomen.org/signal-for-help/)**, and some alternative Spanish-language links that may be useful when looking for help fast, ordered by country.
 
@@ -6,15 +6,15 @@ My translation is lightly edited from the original and is unauthorised by the Ca
 
 ---
 
-##Si usted, o alguien que conoce, está en peligro inmediato, llame a los servicios locales de emergencia (policía, bomberos, ambulancia).
+## Si usted, o alguien que conoce, está en peligro inmediato, llame a los servicios locales de emergencia (policía, bomberos, ambulancia).
 
-###SI VE LA SEÑAL DE SOCORRO
+### SI VE LA SEÑAL DE SOCORRO
 
 Si ve que alguien usa la Señal de Socorro, comuníquese con la persona de manera segura para saber qué necesita y qué quiere que haga.
 
 ---
 
-###Algunas formas en que puede ponerse en contacto de forma segura :
+### Algunas formas en que puede ponerse en contacto de forma segura :
 
 1. **Llame a la persona y hágale preguntas que pueda responder con "sí" o "no". Esto puede reducir el riesgo si alguien está escuchando. Por ejemplo:**
 "¿Quieres que llame a los servicios de emergencia?"
@@ -32,19 +32,19 @@ Si ve que alguien usa la Señal de Socorro, comuníquese con la persona de maner
 
 ---
 
-###ARGENTINA:
+### ARGENTINA:
 [Pedir ayuda y atención para víctimas de violencia familiar y sexual](https://www.argentina.gob.ar/pedir-ayuda-y-atencion-para-victimas-de-violencia-familiar-y-sexual)
 
 [Denuncia la trata de personas](https://www.argentina.gob.ar/denuncialatrata)Si algo te hace dudar, no dudes. #DenunciáLaTrata
 
-###CANADA:
+### CANADA:
 [Signal For Help](https://canadianwomen.org/signal-for-help/) -- la fuente del texto de este página (página en inglés o francés)
 
 [Crisis Text Line](https://www.crisistextline.ca/) (página en inglés o francés)
 
 [Shelter Safe](https://www.sheltersafe.ca/) (página en inglés o francés)
 
-###CHILE:
+### CHILE:
 [¿Dónde denunciar la violencia intrafamiliar?](https://www.divorciofacil.cl/violencia-intrafamiliar/#Donde_denunciar_la_violencia_intrafamiliar)
 
 [Vínculos útiles de La Red Chilena Contra La Violencia Hacia Las Mujeres](http://www.nomasviolenciacontramujeres.cl/centros-de-atencion-2/)
@@ -57,7 +57,7 @@ Si ve que alguien usa la Señal de Socorro, comuníquese con la persona de maner
 
 [Fiscalía en línea -- Realiza tu denuncia de forma online](http://www.fiscaliadechile.cl/Fiscalia/quienes/formularios.jsp)
 
-###EEUU:
+### EEUU:
 [Signal for Help](https://www.womensfundingnetwork.org/signalforhelp/) (muchos recursos, página disponible sólo en inglés)
 
 [RAINN: La Línea de Ayuda Nacional Online de Asalto Sexual](https://www.rainn.org/es). Gratis. Confidencial. Segura.
@@ -70,10 +70,10 @@ Si ve que alguien usa la Señal de Socorro, comuníquese con la persona de maner
 
 [myPlan app](https://www.myplanapp.org/home#)
 
-###ESPAÑA:
+### ESPAÑA:
 [Fundación de Mujeres](http://www.fundacionmujeres.es/enlaces/index/1)
 
-###MÉXICO:
+### MÉXICO:
 [No estás sola](https://www.gob.mx/inmujeres/articulos/servicios-de-atencion-a-mujeres-en-situacion-de-violencia-de-los-estados?idiom=es)
 
 **Ciudad de México:**
